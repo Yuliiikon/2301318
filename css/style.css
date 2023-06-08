@@ -1,0 +1,23 @@
+h5 {
+     color:chartreuse
+   }
+
+   h6 {
+    background-color: firebrick;
+      }
+
+      #bg {
+        background-color: salmon;
+      }
+
+      #color {
+       color:deepskyblue
+      }
+
+      .size {
+        font-size: 50px;
+      }
+
+      .color {
+        color:lightgray
+      }
